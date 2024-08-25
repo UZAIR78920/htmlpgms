@@ -48,3 +48,5 @@ To add real spaces to your text, you can use the &nbsp; character entity.
 <select>	Defines a drop-down list
 <option>	Defines an option in a drop-down list
 
+The <a> tag defines a hyperlink, which is used to link from one page to another.
+The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
